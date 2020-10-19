@@ -1,0 +1,4 @@
+An application using the technologies of React,Spring Security,JWT token in order for the users that are stored in database to have access in the site based on the role they have.
+
+
+In order for the front end to run you will need to run the comman npm install and for the back endyou will need to run the comand Clean and Build
